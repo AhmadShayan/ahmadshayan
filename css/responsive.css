@@ -361,6 +361,7 @@
     .blog-left .row .blog-list { 
         min-height: 630px;
     }
+
 }
 @media screen and (max-width: 767px) {
     .content-wrapper {
@@ -505,8 +506,8 @@
         margin: 20px 0 30px 0;
     }
     .slideshow figure {
-        border: 20px solid #3f3f3f;
-        border-top: 10px solid #3f3f3f;
+        border: 20px solid #fff;
+        border-top: 10px solid #fff;
     }
     .slideshow figure {
         width: 50%;

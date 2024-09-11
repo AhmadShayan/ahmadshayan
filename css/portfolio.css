@@ -41,7 +41,7 @@
     padding: 0 0 10px 0;
 }
 .grid-gallery figcaption span {
-    border-bottom: 3px solid #bead74;
+    border-bottom: 3px solid #ffb400;
     color: #000;
     display: block;
     font-size: 12px;
@@ -74,7 +74,7 @@
     opacity: 1;
 }
 .grid figcaption {
-    background-color: #bead74;
+    background-color: #ffb400;
     opacity: 0;
     position: absolute;
     top: 0;
@@ -118,7 +118,14 @@
 
 .slideshow {
     position: fixed;
-    background: rgba(0,0,0,0.9);
+    background: rgba(255,204,0,1);
+    background: -moz-linear-gradient(left, rgba(255,204,0,1) 0%, rgba(229,0,118,0.85) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,204,0,1)), color-stop(100%, rgba(229,0,118,0.85)));
+    background: -webkit-linear-gradient(left, rgba(255,204,0,1) 0%, rgba(229,0,118,0.85) 100%);
+    background: -o-linear-gradient(left, rgba(255,204,0,1) 0%, rgba(229,0,118,0.85) 100%);
+    background: -ms-linear-gradient(left, rgba(255,204,0,1) 0%, rgba(229,0,118,0.85) 100%);
+    background: linear-gradient(to right, rgba(255,204,0,1) 0%, rgba(229,0,118,0.85) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffcc00', endColorstr='#e50076', GradientType=1 );
     width: 100%;
     height: 100%;
     top: 0;
@@ -171,11 +178,11 @@
 .slideshow li:after {
     content: '';
     position: absolute;
-    width: 116%;
-    height: 116%;
+    width: 114%;
+    height: 114%;
     top: 0;
     left: 0;
-    background: rgba(0,0,0,0.8);
+    background: rgba(255,255,255,0.8);
     -webkit-transition: opacity 0.3s;
     transition: opacity 0.3s;
 }
@@ -188,8 +195,8 @@
 .slideshow figure {
     width: 100%;
     height: 100%;
-    background: #3f3f3f;
-    border: 50px solid #3f3f3f;
+    background: #fff;
+    border: 50px solid #fff;
     overflow: hidden;
 }
 .slideshow figcaption {
@@ -199,12 +206,6 @@
     font-weight: 300;
     font-size: 200%;
 }
-.slideshow figcaption h3, .slideshow figcaption span {
-    color: #818181;
-}
-.slideshow figcaption P{
-    color: #818181;
-}
 /* ==========================================================================
    #Navigation
    ========================================================================== */
@@ -212,7 +213,7 @@
 .slideshow nav span {
     position: fixed;
     z-index: 1000;
-    color: #818181;
+    color: #000;
     text-align: center;
     padding: 3%;
     cursor: pointer;
@@ -230,8 +231,8 @@
     top: 0;
     right: 0;
     padding: 0.5em 0.7em;
-    color: #818181;
-    background-color: #3f3f3f;
+    color: #fff;
+    background-color: #000;
 }
 .slideshow nav span.nav-close:hover {
     background-color: #FFF;

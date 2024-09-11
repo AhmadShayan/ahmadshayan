@@ -40,6 +40,8 @@ $(document).ready(function () {
         //Videos
         $(".content-scroller").fitVids();
 
+
+
     } catch (ex) {
     }
 });

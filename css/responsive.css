@@ -183,7 +183,7 @@
         height: 460px;
     }
     .menu nav {
-        top: 50px;
+        top: 75px;
         bottom: 20px;
     }
     .content-scroller {
@@ -228,7 +228,7 @@
     .menu-link {
         display: block;
         float: right;
-        padding: 14px 15px 0 0;
+        padding: 28px 33px 0 0;
         width: 25px;
         height: 25px;
         font-size: 23px;
@@ -263,7 +263,7 @@
         width: 100% !important;
     }
     .menu {
-        height: 50px
+        height: 75px
     }
     .copyright {
         display: none
@@ -393,9 +393,6 @@
 @media screen and (max-width: 675px) {
     .inner {
         padding: 130px 30px 40px 30px;
-    }
-    .introduction .inner {
-        background: url(../images/black-transparent.png) repeat
     }
     .introduction h2 {
         font-size: 35px;

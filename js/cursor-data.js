@@ -1,6 +1,6 @@
 const textArray = [
     "Data Scraping",
-    "Automation Solutions",
+    "Web & App Automation",
     "Data Visualization"
   ];
   let currentIndex = 0;

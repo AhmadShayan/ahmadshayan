@@ -33,8 +33,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
 
+
 a {
 	text-decoration: none;
+}
+a:hover{
+	color: #00c0ff !important;
 }
 
 :root {
@@ -153,6 +157,12 @@ body::-webkit-scrollbar-thumb {
 	clear: both;
 }
 
+@media screen and (min-width: 1600px) {
+	.container{
+		max-width: 1700px;
+		padding: 0rem 5rem;
+	}
+}
 h1,
 h2,
 h3,
@@ -599,6 +609,11 @@ h6 {
 
 .foliox_tm_header .menu ul li a:hover {
 	color: var(--extra-color);
+	display: inline-block;
+}
+#hovering:hover{
+	transform: scale(1.2) !important;
+	transition-duration: 0.4s;
 }
 
 .foliox_tm_header .menu ul li.current a {
@@ -729,14 +744,12 @@ justify-items: center;
 	width: 50%;
 	display: flex;
 	flex-direction: column;
-	gap: 10px;
 }
 
 .foliox_tm_hero .name {
 	font-size: 120px;
 	line-height: 1.1;
-	margin-bottom: 25px;
-	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-family:'Satisfy', cursive;
 	font-weight: 700;
 }
 
@@ -769,6 +782,7 @@ justify-items: center;
 	border-radius: 50px;
 	overflow: hidden;
 	position: relative;
+	margin-top: 25px;
 }
 
 .foliox_tm_button a span {
@@ -865,8 +879,8 @@ justify-items: center;
 }
 
 .foliox_tm_hero .right img {
-	max-width: 600px;
-	max-height: 600px;
+	max-width: 900px;
+	max-height: 900px;
 }
 
 .porfile-img {
@@ -874,7 +888,11 @@ justify-items: center;
 	border-radius: 50% 10% 50% 10%;
 	box-sizing: content-box;
 }
-
+@media screen and (min-width: 1600px) {
+	.porfile-img{
+		width: 30rem;
+	}
+}
 
 /*---------------------------------------------------*/
 /*	05) FOLIOX FEATURES
@@ -2790,6 +2808,7 @@ input[type=number] {
 
 .foliox_tm_copyright p {
 	font-family: var(--font-family-extra);
+	margin-bottom: 4rem;
 }
 
 .foliox_tm_copyright a {
@@ -2974,7 +2993,7 @@ input[type=number] {
 	.foliox_tm_hero .name {
 		font-size: 70px;
 		margin-bottom: 14px;
-		font-family: 'Satisfy';
+		font-family: "Satisfy", cursive !important;
 	}
 
 	.foliox_tm_hero .job {
@@ -2987,8 +3006,8 @@ input[type=number] {
 	}
 
 	.foliox_tm_hero .right img {
-		max-width: 400px;
-		max-height: 400px;
+		max-width: 600px;
+		max-height: 600px;
 	}
 
 	.foliox_tm_features .list ul li .title {

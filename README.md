@@ -22,6 +22,7 @@ I design and build **automation infrastructure** — from AI agents and LLM-powe
 - 🤖 Building **AI agents**, intelligent copilots, and autonomous business systems
 - 🔧 Specializing in **n8n**, **Python**, **Supabase**, **LLM integrations** & workflow orchestration
 - 🌐 Connecting tools into unified systems — Make, Zapier, n8n, REST APIs, and more
+- 🧠 Daily driver: **Claude Code** by Anthropic — building and shipping with AI natively
 - 📍 Based in **Lahore, Pakistan**
 
 ---
@@ -33,6 +34,7 @@ I design and build **automation infrastructure** — from AI agents and LLM-powe
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=integromat&logoColor=white)
@@ -64,9 +66,7 @@ I design and build **automation infrastructure** — from AI agents and LLM-powe
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadShayan&show_icons=true&theme=dark&bg_color=0D1117&border_color=1C2A3A&icon_color=0EA5E9&title_color=0EA5E9&text_color=C9D1D9" alt="Ahmad Shayan GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadShayan&layout=compact&theme=dark&bg_color=0D1117&border_color=1C2A3A&title_color=0EA5E9&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmadShayan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
 </p>
 
 ---

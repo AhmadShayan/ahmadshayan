@@ -65,10 +65,6 @@ I design and build **automation infrastructure** — from AI agents and LLM-powe
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadShayan&theme=dark&background=0D1117&border=1C2A3A&ring=0EA5E9&fire=10B981&currStreakLabel=0EA5E9" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmadShayan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 🚀 What I Build at Ahmasoft

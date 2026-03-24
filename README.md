@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmad+Shayan+%F0%9F%91%8B;AI+Automation+Engineer;Founder+%40+Ahmasoft;Automate+Smarter.+Scale+Faster." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmad+Shayan+%F0%9F%91%8B;Founder+%26+CEO+%40+Ahmasoft;AI+Software+Builder;Build.+Ship.+Scale." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,16 +12,16 @@
 
 ---
 
-## 🤖 About Me
+## 🚀 About Me
 
-I'm the **Founder & CEO of [Ahmasoft](https://ahmasoft.com)** — an AI automation agency that helps SaaS founders and B2B companies eliminate manual work and build intelligent, scalable systems.
+I'm the **Founder & CEO of [Ahmasoft](https://ahmasoft.com)** — we design and ship **production-grade AI software** for businesses that need more than off-the-shelf tools.
 
-I design and build **automation infrastructure** — from AI agents and LLM-powered copilots, to data pipelines and workflow orchestration that runs on autopilot.
+Not just automation workflows. Complete products: custom SaaS platforms with billing and user management, intelligent agents with multi-LLM fallback chains, enterprise data pipelines, and full-stack applications built from scratch to production.
 
-- 🏢 Running **Ahmasoft** — *Automate Smarter. Scale Faster.* (Founded 2023)
-- 🤖 Building **AI agents**, intelligent copilots, and autonomous business systems
-- 🔧 Specializing in **n8n**, **Python**, **Supabase**, **LLM integrations** & workflow orchestration
-- 🌐 Connecting tools into unified systems — Make, Zapier, n8n, REST APIs, and more
+- 🏢 Running **Ahmasoft** — *Build. Ship. Scale.* (Founded 2023)
+- 🤖 Building **AI agents**, multi-model systems, and autonomous SaaS products
+- 🔧 Stack: **React · Next.js · Python · FastAPI · Supabase · Claude API · n8n**
+- ⚡ Shipped: **ARIA, VocalPipe, IntelliWork, WebEmerge, Ahmasoft Booking**
 - 🧠 Daily driver: **Claude Code** by Anthropic — building and shipping with AI natively
 - 📍 Based in **Lahore, Pakistan**
 
@@ -33,12 +33,11 @@ I design and build **automation infrastructure** — from AI agents and LLM-powe
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-Anthropic-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=integromat&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 
 **Web & Full-Stack**
 
@@ -46,16 +45,16 @@ I design and build **automation infrastructure** — from AI agents and LLM-powe
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 **Data & Infrastructure**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
 ---
 
@@ -67,21 +66,35 @@ I design and build **automation infrastructure** — from AI agents and LLM-powe
 
 ---
 
-## 🚀 What I Build at Ahmasoft
+## 🚢 What We've Shipped
+
+| Product | Description |
+|---|---|
+| 🤖 **ARIA** | Multi-model AI sales assistant — Claude → Gemini → Groq fallback, voice mode, in-chat booking, lead scoring. Live on ahmasoft.com |
+| 🎙️ **VocalPipe** | Production TTS SaaS — subscription billing, credit management, role-based admin CRM, professional DSP audio pipeline |
+| 📋 **IntelliWork** | Autonomous revenue system — AI job scoring, proposal generation, RSS monitoring, Google Sheets CRM integration |
+| 🌐 **WebEmerge** | Agency OS — Google Maps batch lead scraping, AI site prompt generation, niche pricing engine (USD + PKR), bilingual outreach, role-based CRM |
+| 📅 **Ahmasoft Booking** | Custom Calendly alternative — DST-aware timezone detection, real-time Supabase slot availability, 4-step booking flow |
+| 🏢 **Revalize Data Platform** | 50+ brand extraction platform powering a global CPQ SaaS ($45K+ engagement, 100K+ product records delivered) |
+
+---
+
+## 🔧 What I Build
 
 | Service | Description |
 |---|---|
-| 🤖 **AI Agents** | Autonomous agents that handle tasks, decisions, and workflows end-to-end |
-| 🔄 **Workflow Automation** | n8n & Python pipelines that connect your tools and eliminate manual steps |
-| 📊 **Data Pipelines** | Systems that collect, process, and transform business data at scale |
-| 🛠️ **Custom Python Solutions** | Scrapers, bots, integrations, and automation scripts built to spec |
-| 💬 **AI Consulting** | Strategy sessions to identify where AI gives you the biggest leverage |
+| 🤖 **AI Agents & Assistants** | Autonomous agents with multi-LLM fallback chains, voice mode, and tool use |
+| 💻 **SaaS Development** | Full-stack products with auth, billing, subscriptions, and admin dashboards |
+| 🔄 **Workflow Automation** | n8n & Python pipelines that replace manual processes end-to-end |
+| 📊 **Data Pipelines** | Enterprise-grade extraction, transformation, and delivery systems |
+| 🛠️ **Custom Software** | Full-stack apps built from scratch — React, Next.js, FastAPI, Supabase |
+| 💬 **AI Consulting** | Strategy + implementation — where AI gives your business the biggest leverage |
 
 ---
 
 ## 📫 Let's Connect
 
-Got a repetitive process? A manual workflow? I can automate it.
+Building something that requires real engineering? I'd like to hear about it.
 
 <p>
   <a href="https://ahmadshayan.com"><img src="https://img.shields.io/badge/Personal_Site-ahmadshayan.com-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>

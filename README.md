@@ -21,7 +21,7 @@ Not just automation workflows. Complete products: custom SaaS platforms with bil
 - 🏢 Running **Ahmasoft** — *Build. Ship. Scale.* (Founded 2023)
 - 🤖 Building **AI agents**, multi-model systems, and autonomous SaaS products
 - 🔧 Stack: **React · Next.js · Python · FastAPI · Supabase · Claude API · n8n**
-- ⚡ Shipped: **ARIA, REEB, VocalPipe, IntelliWork, WebEmerge, Ahmasoft Booking, Ahmasoft Hiring**
+- ⚡ Shipped: **ARIA, REEB, VocalPipe, IntelliWork, WebEmerge, Ahmasoft Booking, Ahmasoft Hiring, EngageIQ**
 - 🧠 Daily driver: **Claude Code** by Anthropic — building and shipping with AI natively
 - 📍 Based in **Lahore, Pakistan**
 
@@ -77,6 +77,7 @@ Not just automation workflows. Complete products: custom SaaS platforms with bil
 | 📅 **Ahmasoft Booking** | Smart booking and scheduling platform — DST-aware timezone detection, real-time Supabase slot availability, 4-step booking wizard |
 | 📞 **REEB** | AI receptionist — handles inbound calls and bookings autonomously, around the clock |
 | 🏗️ **Ahmasoft Hiring** | Full-cycle hiring platform — public careers portal, 4-step application wizard, Kanban pipeline, automated candidate emails, and offer management |
+| 💬 **EngageIQ** | AI LinkedIn engagement Chrome extension — generates strategic, authentic comments in one click using Claude API. Full product: MV3 extension + Next.js marketing site |
 | 🏢 **Revalize Data Platform** | 50+ brand extraction platform powering a global CPQ SaaS ($45K+ engagement, 100K+ product records delivered) |
 
 ---

@@ -22,6 +22,7 @@ Not just automation workflows. Complete products: custom SaaS platforms with bil
 - 🤖 Building **AI agents**, multi-model systems, and autonomous SaaS products
 - 🔧 Stack: **React · Next.js · Python · FastAPI · Supabase · Claude API · n8n**
 - ⚡ Shipped: **ARIA, REEB, VocalPipe, IntelliWork, WebEmerge, Ahmasoft Booking, Ahmasoft Hiring, EngageIQ**
+- 🎓 Running **Claude Code coaching** — active clients building production AI systems end-to-end
 - 🧠 Daily driver: **Claude Code** by Anthropic — building and shipping with AI natively
 - 📍 Based in **Lahore, Pakistan**
 
@@ -72,7 +73,7 @@ Not just automation workflows. Complete products: custom SaaS platforms with bil
 |---|---|
 | 🤖 **ARIA** | Multi-model AI sales assistant — Claude → Gemini → Groq fallback, voice mode, in-chat booking, lead scoring. Live on ahmasoft.com |
 | 🎙️ **VocalPipe** | Production TTS SaaS — subscription billing, credit management, role-based admin CRM, professional DSP audio pipeline |
-| 📋 **IntelliWork** | Autonomous revenue system — AI job scoring, proposal generation, RSS monitoring, Google Sheets CRM integration |
+| 📋 **IntelliWork** | Full-stack AI operations platform — Upwork intelligence (job scoring, proposals, RSS monitoring), Command Center (client CRM, session tracking, task board), and ARIA: a voice-first AI co-pilot that speaks live business context via Claude Haiku streaming |
 | 🌐 **WebEmerge** | Agency OS — Google Maps batch lead scraping, AI site prompt generation, niche pricing engine (USD + PKR), bilingual outreach, role-based CRM |
 | 📅 **Ahmasoft Booking** | Smart booking and scheduling platform — DST-aware timezone detection, real-time Supabase slot availability, 4-step booking wizard |
 | 📞 **REEB** | AI receptionist — handles inbound calls and bookings autonomously, around the clock |
@@ -88,6 +89,7 @@ Not just automation workflows. Complete products: custom SaaS platforms with bil
 |---|---|
 | 🤖 **AI Agents & Assistants** | Autonomous agents with multi-LLM fallback chains, voice mode, and tool use |
 | 💻 **SaaS Development** | Full-stack products with auth, billing, subscriptions, and admin dashboards |
+| 🎓 **Claude Code Coaching** | 1-on-1 coaching for developers and founders building real AI products with Claude API and Claude Code — from setup to shipping |
 | 🔄 **Workflow Automation** | n8n & Python pipelines that replace manual processes end-to-end |
 | 📊 **Data Pipelines** | Enterprise-grade extraction, transformation, and delivery systems |
 | 🛠️ **Custom Software** | Full-stack apps built from scratch — React, Next.js, FastAPI, Supabase |

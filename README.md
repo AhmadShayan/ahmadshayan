@@ -14,16 +14,16 @@
 
 ## 🚀 About Me
 
-I'm the **Founder & CEO of [Ahmasoft](https://ahmasoft.com)** — we design and ship **production-grade AI software** for businesses that need more than off-the-shelf tools.
+I'm the **Founder & CEO of [Ahmasoft](https://ahmasoft.com)**. I build AI software for companies, and coach non-technical founders to build their own.
 
-Not just automation workflows. Complete products: custom SaaS platforms with billing and user management, intelligent agents with multi-LLM fallback chains, enterprise data pipelines, and full-stack applications built from scratch to production.
+The work splits into two halves. On the build side: custom SaaS platforms with billing and user management, AI agents that fall back across Claude, Gemini, and Groq, voice-enabled assistants, and full-stack apps shipped to production. On the coaching side: 1-on-1 work with developers and founders learning to ship real products with Claude Code, from blank repo to live URL.
 
-- 🏢 Running **Ahmasoft** — *Build. Ship. Scale.* (Founded 2023)
+- 🏢 Running **Ahmasoft** (founded Feb 2025). *Build. Ship. Scale.*
 - 🤖 Building **AI agents**, multi-model systems, and autonomous SaaS products
 - 🔧 Stack: **React · Next.js · Python · FastAPI · Supabase · Claude API · n8n**
 - ⚡ Shipped: **ARIA, REEB, VocalPipe, IntelliWork, WebEmerge, Ahmasoft Booking, Ahmasoft Hiring, EngageIQ**
-- 🎓 Running **Claude Code coaching** — active clients building production AI systems end-to-end
-- 🧠 Daily driver: **Claude Code** by Anthropic — building and shipping with AI natively
+- 🎓 Coaching **6 active clients** through their own Claude Code production builds
+- 🧠 Daily driver: **Claude Code** by Anthropic. I build and ship with AI natively.
 - 📍 Based in **Lahore, Pakistan**
 
 ---
@@ -67,18 +67,18 @@ Not just automation workflows. Complete products: custom SaaS platforms with bil
 
 ---
 
-## 🚢 What We've Shipped
+## 🚢 What I've Shipped
 
 | Product | Description |
 |---|---|
-| 🤖 **ARIA** | Multi-model AI sales assistant — Claude → Gemini → Groq fallback, voice mode, in-chat booking, lead scoring. Live on ahmasoft.com |
-| 🎙️ **VocalPipe** | Production TTS SaaS — subscription billing, credit management, role-based admin CRM, professional DSP audio pipeline |
-| 📋 **IntelliWork** | Full-stack AI operations platform — Upwork intelligence (job scoring, proposals, RSS monitoring), Command Center (client CRM, session tracking, task board), and ARIA: a voice-first AI co-pilot that speaks live business context via Claude Haiku streaming |
-| 🌐 **WebEmerge** | Agency OS — Google Maps batch lead scraping, AI site prompt generation, niche pricing engine (USD + PKR), bilingual outreach, role-based CRM |
-| 📅 **Ahmasoft Booking** | Smart booking and scheduling platform — DST-aware timezone detection, real-time Supabase slot availability, 4-step booking wizard |
-| 📞 **REEB** | AI receptionist — handles inbound calls and bookings autonomously, around the clock |
-| 🏗️ **Ahmasoft Hiring** | Full-cycle hiring platform — public careers portal, 4-step application wizard, Kanban pipeline, automated candidate emails, and offer management |
-| 💬 **EngageIQ** | AI LinkedIn engagement Chrome extension — generates strategic, authentic comments in one click using Claude API. Full product: MV3 extension + Next.js marketing site |
+| 🤖 **ARIA** | Multi-model AI sales assistant. Claude → Gemini → Groq fallback, voice mode, in-chat booking, lead scoring. Live on ahmasoft.com |
+| 🎙️ **VocalPipe** | TTS SaaS with subscription billing, credit management, role-based admin CRM, and a professional DSP audio pipeline |
+| 📋 **IntelliWork** | Full-stack AI operations platform. Upwork intelligence (job scoring, proposals, RSS monitoring), Command Center (client CRM, session tracking, task board), and ARIA: a voice-first AI co-pilot that speaks live business context via Claude Haiku streaming |
+| 🌐 **WebEmerge** | Agency OS. Google Maps batch lead scraping, AI site prompt generation, niche pricing engine (USD + PKR), bilingual outreach, role-based CRM |
+| 📅 **Ahmasoft Booking** | Smart booking and scheduling platform. DST-aware timezone detection, real-time Supabase slot availability, 4-step booking wizard |
+| 📞 **REEB** | AI receptionist that handles inbound calls and bookings on its own, around the clock |
+| 🏗️ **Ahmasoft Hiring** | Full-cycle hiring platform. Public careers portal, 4-step application wizard, Kanban pipeline, automated candidate emails, and offer management |
+| 💬 **EngageIQ** | AI LinkedIn engagement Chrome extension. Generates strategic, authentic comments in one click using Claude API. Full product: MV3 extension + Next.js marketing site |
 | 🏢 **Revalize Data Platform** | 50+ brand extraction platform powering a global CPQ SaaS ($45K+ engagement, 100K+ product records delivered) |
 
 ---
@@ -89,17 +89,17 @@ Not just automation workflows. Complete products: custom SaaS platforms with bil
 |---|---|
 | 🤖 **AI Agents & Assistants** | Autonomous agents with multi-LLM fallback chains, voice mode, and tool use |
 | 💻 **SaaS Development** | Full-stack products with auth, billing, subscriptions, and admin dashboards |
-| 🎓 **Claude Code Coaching** | 1-on-1 coaching for developers and founders building real AI products with Claude API and Claude Code — from setup to shipping |
-| 🔄 **Workflow Automation** | n8n & Python pipelines that replace manual processes end-to-end |
-| 📊 **Data Pipelines** | Enterprise-grade extraction, transformation, and delivery systems |
-| 🛠️ **Custom Software** | Full-stack apps built from scratch — React, Next.js, FastAPI, Supabase |
-| 💬 **AI Consulting** | Strategy + implementation — where AI gives your business the biggest leverage |
+| 🎓 **Claude Code Coaching** | 1-on-1 coaching for developers and founders building real AI products with Claude API and Claude Code, from setup to shipping |
+| 🔄 **Workflow Automation** | n8n and Python pipelines that replace manual processes |
+| 📊 **Data Pipelines** | Production extraction, transformation, and delivery systems at scale |
+| 🛠️ **Custom Software** | Full-stack apps built from scratch on React, Next.js, FastAPI, and Supabase |
+| 💬 **AI Consulting** | Strategy and implementation, focused on where AI gives your business the biggest leverage |
 
 ---
 
 ## 📫 Let's Connect
 
-Building something that requires real engineering? I'd like to hear about it.
+Building something that needs real engineering? I want to hear about it.
 
 <p>
   <a href="https://ahmadshayan.com"><img src="https://img.shields.io/badge/Personal_Site-ahmadshayan.com-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -107,3 +107,7 @@ Building something that requires real engineering? I'd like to hear about it.
   <a href="https://www.linkedin.com/in/ehmadshayan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:contact@ahmadshayan.com"><img src="https://img.shields.io/badge/Email-contact@ahmadshayan.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+---
+
+<p align="center"><i>Everything above came from one habit: I finish what I start.</i></p>

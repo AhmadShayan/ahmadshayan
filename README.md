@@ -21,7 +21,7 @@ The work splits into two halves. On the build side: custom SaaS platforms with b
 - 🏢 Running **Ahmasoft** (founded Feb 2025). *Build. Ship. Scale.*
 - 🤖 Building **AI agents**, multi-model systems, and autonomous SaaS products
 - 🔧 Stack: **React · Next.js · Python · FastAPI · Supabase · Claude API · n8n**
-- ⚡ Shipped: **ARIA, REEB, VocalPipe, IntelliWork, WebEmerge, Ahmasoft Booking, Ahmasoft Hiring, EngageIQ, Wakedesk**
+- ⚡ Shipped: **ARIA, REEB, VocalPipe, IntelliWork, WebEmerge, Ahmasoft Booking, Ahmasoft Hiring, EngageIQ, Wakedesk, Harbova**
 - 🎓 Coaching **6 active clients** through their own Claude Code production builds
 - 🧠 Daily driver: **Claude Code** by Anthropic. I build and ship with AI natively.
 - 📍 Based in **Lahore, Pakistan**
@@ -80,6 +80,7 @@ The work splits into two halves. On the build side: custom SaaS platforms with b
 | 🏗️ **Ahmasoft Hiring** | Full-cycle hiring platform. Public careers portal, 4-step application wizard, Kanban pipeline, automated candidate emails, and offer management |
 | 💬 **EngageIQ** | AI LinkedIn engagement Chrome extension. Generates strategic, authentic comments in one click using Claude API. Full product: MV3 extension + Next.js marketing site |
 | 🔔 **Wakedesk** | AI front desk for service businesses. Answers every inbound lead in seconds, qualifies it, and books the appointment, 24/7. Multi-tenant SaaS, 14-day free trial. Live on wakedesk.ahmasoft.com |
+| 🛡️ **Harbova** | Security audits and fixes for apps built with AI tools. Finds exposed keys, open databases, and missing logins in Lovable / Bolt / Cursor / Claude Code apps, then closes them and proves it. SSRF-guarded free scanner, Supabase RLS + Next.js. Live on harbova.ahmasoft.com |
 | 🏢 **Revalize Data Platform** | 50+ brand extraction platform powering a global CPQ SaaS ($45K+ engagement, 100K+ product records delivered) |
 
 ---

@@ -10,6 +10,18 @@
   <img src="https://komarev.com/ghpvc/?username=AhmadShayan&color=0ea5e9&style=flat-square&label=Profile+Views" />
 </p>
 
+<!-- The name is deliberately plain text here, not only inside the typing SVG
+     above. Until 2026-07-28 the string "Ahmad Shayan" appeared nowhere in this
+     README as readable text: it lived only in image URLs (the typing SVG and the
+     shields.io badges), so a page that ranks well for personal-name queries had
+     nothing crawlable to match on. Keep this block. -->
+
+# Ahmad Shayan
+
+**Founder & CEO of [Ahmasoft](https://ahmasoft.com)** · AI Software Builder · Lahore, Pakistan
+
+I build production AI systems for companies, and I coach non-technical founders to build their own with Claude Code. More at **[ahmadshayan.com/about](https://ahmadshayan.com/about)**.
+
 ---
 
 ## 🚀 About Me
